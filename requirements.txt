@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+pdf2image
+pytesseract
+Pillow
+deep-translator
+torch
+torchvision
+numpy
+transformers==4.37.2
+decord
+timm
+einops
+tensorflow
+sentencepiece
